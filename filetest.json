@@ -1,0 +1,34 @@
+[
+   {
+      "id": 7478489291,
+      "AuthorLocation": "Montreal, Canada",
+      "CreatedAt": "2023-12-02T19:12:28Z",
+      "RetweetCount": 4,
+      "TweetLanguage": "fr",
+      "TweetText": "Il fait super froid aujourd'hui"
+   },
+   {
+      "id": 8392991,
+      "AuthorLocation": "Beirut, Lebanon",
+      "CreatedAt": "2023-12-02T19:12:59Z",
+      "RetweetCount": 2,
+      "TweetLanguage": "fr",
+      "TweetText": "Il fait chaud aujourd'hui"
+   },
+   {
+      "id": 784920,
+      "AuthorLocation": "Moscou, Russia",
+      "CreatedAt": "2023-12-02T19:13:29Z",
+      "RetweetCount": 1,
+      "TweetLanguage": "es",
+      "TweetText": "el tiempo es muy malo"
+   },
+   {
+      "id": 2838383,
+      "AuthorLocation": "Moscou, Russia",
+      "CreatedAt": "2023-12-02T19:14:59Z",
+      "RetweetCount": 8,
+      "TweetLanguage": "es",
+      "TweetText": "Cia mi fratello"
+   }
+]
