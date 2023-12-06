@@ -13662,5 +13662,13 @@
       "RetweetCount": 10,
       "TweetLanguage": "en",
       "TweetText": "I'm very happy, i finally fixed my issue with saving the incoming data @Ahmad  ! #code #debug #InPoDa #projet"
+   },
+   {
+      "id": "1490979688853825923",
+      "AuthorLocation": "Los Angeles, United-States",
+      "CreatedAt": "2023-12-06T13:17:10Z",
+      "RetweetCount": 5,
+      "TweetLanguage": "en",
+      "TweetText": "I finally made the get_topic attribute and the top_k_topics, it's been so long  ! #code #InPoDa #projet"
    }
 ]
