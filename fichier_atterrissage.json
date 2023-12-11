@@ -13670,5 +13670,69 @@
       "RetweetCount": 5,
       "TweetLanguage": "en",
       "TweetText": "I finally made the get_topic attribute and the top_k_topics, it's been so long  ! #code #InPoDa #projet"
+   },
+   {
+      "id": "1346734506754063105",
+      "AuthorLocation": "Delhi, India",
+      "CreatedAt": "2023-12-07T19:12:39Z",
+      "RetweetCount": 6,
+      "TweetLanguage": "en",
+      "TweetText": "I had a test this morning, it was very hard even though i worked for it   ! #302 #L2INFO #projet"
+   },
+   {
+      "id": "1851763521728216441",
+      "AuthorLocation": "Amsterdam, Netherland",
+      "CreatedAt": "2023-12-07T19:35:56Z",
+      "RetweetCount": 4,
+      "TweetLanguage": "en",
+      "TweetText": "It's very hard to drive in Paris ! #driving #bmw #projet"
+   },
+   {
+      "id": "1390046880672911167",
+      "AuthorLocation": "Pekin, China",
+      "CreatedAt": "2023-12-07T19:53:57Z",
+      "RetweetCount": 6,
+      "TweetLanguage": "fr",
+      "TweetText": "Je test mon interaction avec le programme ! #projet"
+   },
+   {
+      "id": "1515728551363414642",
+      "AuthorLocation": "Amsterdam, Netherland",
+      "CreatedAt": "2023-12-07T19:56:49Z",
+      "RetweetCount": 10,
+      "TweetLanguage": "fr",
+      "TweetText": "Ceci est un test InPoDa"
+   },
+   {
+      "id": "1222707892896809872",
+      "AuthorLocation": "Moscou, Russia",
+      "CreatedAt": "2023-12-07T20:01:56Z",
+      "RetweetCount": 7,
+      "TweetLanguage": "fr",
+      "TweetText": "Je test mes boucles ! #InPoDa #tweet #projet #hehe"
+   },
+   {
+      "id": "1850077484684788024",
+      "AuthorLocation": "Beirut, Lebanon",
+      "CreatedAt": "2023-12-07T20:16:42Z",
+      "RetweetCount": 4,
+      "TweetLanguage": "fr",
+      "TweetText": "Normalement là ca marche niquel #projet #InPoDa"
+   },
+   {
+      "id": "1553131051923840659",
+      "AuthorLocation": "Madrid, Spain",
+      "CreatedAt": "2023-12-07T20:21:20Z",
+      "RetweetCount": 2,
+      "TweetLanguage": "fr",
+      "TweetText": "J'ai FINI LE PROJET OIIIIIII"
+   },
+   {
+      "id": "1361014137009034675",
+      "AuthorLocation": "London, England",
+      "CreatedAt": "2023-12-07T20:25:11Z",
+      "RetweetCount": 5,
+      "TweetLanguage": "fr",
+      "TweetText": "la cerise sur le gateau"
    }
 ]
