@@ -61,7 +61,7 @@
       "CreatedAt": "2021-07-14T13:48:37Z",
       "RetweetCount": "2",
       "TweetLanguage": "en",
-      "TweetText": "RT @DD_FaFa_: Prediction Machines: The Simple Economics of Artificial Intelligence #AI #ArtificialIntelligence https://t.co/8nFi64UIEx"
+      "TweetText": "RT @DD_FaFa_: Prediction Machines: The Simple Economics @ahmad of Artificial Intelligence #AI #ArtificialIntelligence https://t.co/8nFi64UIEx"
    },
    {
       "id": "1415307203645296642",
@@ -13734,5 +13734,21 @@
       "RetweetCount": 5,
       "TweetLanguage": "fr",
       "TweetText": "la cerise sur le gateau"
+   },
+   {
+      "id": "1000780637489536351",
+      "AuthorLocation": "Beirut, Lebanon",
+      "CreatedAt": "2023-12-12T21:51:47Z",
+      "RetweetCount": 6,
+      "TweetLanguage": "en",
+      "TweetText": ""
+   },
+   {
+      "id": "1783964973733608966",
+      "AuthorLocation": "Shanghai, China",
+      "CreatedAt": "2023-12-12T22:21:08Z",
+      "RetweetCount": 6,
+      "TweetLanguage": "en",
+      "TweetText": ""
    }
 ]
