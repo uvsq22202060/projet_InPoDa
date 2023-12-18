@@ -13725,30 +13725,14 @@
       "CreatedAt": "2023-12-07T20:21:20Z",
       "RetweetCount": 2,
       "TweetLanguage": "fr",
-      "TweetText": "J'ai FINI LE PROJET OIIIIIII"
+      "TweetText": "J'ai FINI LE PROJET !!!!"
    },
    {
-      "id": "1361014137009034675",
-      "AuthorLocation": "London, England",
-      "CreatedAt": "2023-12-07T20:25:11Z",
-      "RetweetCount": 5,
-      "TweetLanguage": "fr",
-      "TweetText": "la cerise sur le gateau"
-   },
-   {
-      "id": "1000780637489536351",
-      "AuthorLocation": "Beirut, Lebanon",
-      "CreatedAt": "2023-12-12T21:51:47Z",
-      "RetweetCount": 6,
-      "TweetLanguage": "en",
-      "TweetText": ""
-   },
-   {
-      "id": "1783964973733608966",
+      "id": "1927216938640902320",
       "AuthorLocation": "Shanghai, China",
-      "CreatedAt": "2023-12-12T22:21:08Z",
-      "RetweetCount": 6,
+      "CreatedAt": "2023-12-18T17:25:36Z",
+      "RetweetCount": 5,
       "TweetLanguage": "en",
-      "TweetText": ""
+      "TweetText": "It's my final tweet for the project #InPoDa "
    }
 ]
